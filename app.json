@@ -1,15 +1,15 @@
 {
-  "name": "URL-Uploader",
-  "description": "An url uploader bot with permenent thumbnail support",
+  "name": "Leo Any Downloader Bot",
+  "description": "An any downloader bot with permenent thumbnail support",
   "keywords": [
     "telegram",
     "url",
     "uploader",
     "pyrogram"
   ],
-  "success_url": "https://github.com/FayasNoushad",
+  "success_url": "https://github.com/Naviya2",
   "website": "https://fayas.cf",
-  "repository": "https://github.com/FayasNoushad/URL-Uploader",
+  "repository": "https://github.com/Naviya2/LeoAnyDLBot",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
