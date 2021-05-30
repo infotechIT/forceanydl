@@ -1,52 +1,48 @@
-# URL-Uploader
+## Leo Any Downloader Bot 🇱🇰
+---
 
-A simple url uploader bot with permenent thumbnail support
+An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
+<p align="center">
+  <img src="https://telegra.ph/file/61d947f9b545e348e42ba.jpg"></p>
+**My Features**:
 
-```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
-Please fork this repository don't import code
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under GNU General Public License v3.0
-License -> https://github.com/FayasNoushad/URL-Uploader/blob/main/LICENSE
-```
+👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
-## Deploy 
+👉 Upload as file from any HTTP link
 
-<b>Deploy on Heroku</b>
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Naviya2/URL-Uploader">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
-</p>
+### Installation
 
-<b>Deploy in your vps</b>
+#### The Easy Way
+
+#### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Naviya2/LeoAnyDLBot/tree/main)
+
+Join Our updates channel to get in touch with us * [Updates Channel](https://telegram.dog/new_ehi)
+
+#### The Hard Way
+
 ```sh
-git clone https://github.com/FayasNoushad/URL-Uploader
-cd URL-Uploader
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 bot.py
+virtualenv -p python3 VENV
+. ./VENV/bin/activate
+pip install -r requirements.txt
+cp sample_config.py config.py
+--- EDIT config.py values appropriately ---
+python bot.py
 ```
+## Our Telegram Channel and Group
 
-## Variables
+* [Leo Updates Channel](https://telegram.dog/new_ehi) 🇱🇰
+* [Leo All in One Bot](https://telegram.dog/leoinlinesearchbot) 🇱🇰
+* [Leo Support Group](https://telegram.dog/leosupportx) 🇱🇰
 
-* `API_HASH` Your API Hash from my.telegram.org
-* `API_ID` Your API ID from my.telegram.org
-* `BOT_TOKEN` Your bot token from @BotFather
-* `AUTH_USERS` Allow only pre-defined users to use this bot
-* `TIME_LIMIT` For time to next process in second 
-* `UPDATE_CHANNEL` Updates channel username without '@' for force subscription
+## Credits, and Thanks to
 
-## Accounts
+* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
+* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-* [Twitter](https://twitter.com/FayasNoushad)
-* [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
-* [GitHub](https://github.com/FayasNoushad)
-* [Telegram](https://telegram.me/FayasNoushad)
+- For FeedBack and Suggestions, please feel free to say in [Support Group](https://telegram.dog/leosupportx) 🇱🇰
 
-## Credits
-
-* [Fayas Noushad](https://github.com/FayasNoushad)
-* [Shrimadhav UK](https://github.com/SpEcHIDe)
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
+#### LICENSE
+- GPLv3
