@@ -9,7 +9,7 @@ Hello {} 👋
 
 <b>Please send me any direct download URL Link, i can upload it to telegram as File/Video</b>
 
-Use /help Command To get help Menu 😶
+Use Help Button To get help Menu 😶
 
 
 Made By : @naviya2 🇱🇰
