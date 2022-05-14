@@ -1,5 +1,5 @@
 {
-  "name": "Leo Any Downloader Bot",
+  "name": "Any Downloader Bot",
   "description": "An any downloader bot with permenent thumbnail support",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "uploader",
     "pyrogram"
   ],
-  "success_url": "https://github.com/Naviya2",
+  "success_url": "https://github.com/infotechIT",
   "website": "https://fayas.cf",
-  "repository": "https://github.com/Naviya2/LeoAnyDLBot",
+  "repository": "https://github.com/infotechIT/LeoAnyDLBot",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
