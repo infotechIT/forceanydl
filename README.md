@@ -1,4 +1,4 @@
-## Leo Any Downloader Bot 🇱🇰
+## Any Downloader Bot 🇱🇰
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -16,7 +16,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Naviya2/LeoAnyDLBot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/infotechIT/LeoAnyDLBot)
 
 Join Our updates channel to get in touch with us * [Updates Channel](https://telegram.dog/new_ehi)
 
